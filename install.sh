@@ -1,4 +1,5 @@
 # cacama-valvata, sept 08, 2024
+# https://kernel-team.pages.debian.net/kernel-handbook/ch-update-hooks.html
 
 mkdir -p /etc/initramfs/post-update.d/
 cp initramfs /etc/initramfs/post-update.d/zz-update-gummi
